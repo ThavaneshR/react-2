@@ -1,0 +1,37 @@
+div.main{
+        display: flex;
+        background-color: black;
+        width: 270px;
+        border-bottom-right-radius:20px;
+        border-bottom-left-radius:20px;
+}
+button.num{
+    padding: 20px;
+    margin: 8px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+}
+button.opr{
+    padding: 17px;
+    margin-top: 3px;
+    margin-left: 10px;
+    border: none;
+    background-color: transparent;
+    color:rgb(112, 6, 218);
+    font-size: 20px;
+}
+input{
+    width:266px;
+    height:150px;
+    margin-top: 10px;
+    border: none;
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+    background-color: darkblue;
+    color: white;
+}
+body{
+    background:linear-gradient(to right,rgb(32, 193, 234),rgb(7, 241, 152));
+}
